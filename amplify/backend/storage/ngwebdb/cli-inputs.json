@@ -1,0 +1,14 @@
+{
+  "resourceName": "ngwebdb",
+  "tableName": "ngwebdb",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "sortKey": {
+    "fieldName": "updatedAt",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ngwebsite2022-dev-212830-authRole",
+      "UnauthRoleArn": "arn:aws:iam::175054299308:role/amplify-ngwebsite2022-dev-212830-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::175054299308:role/amplify-ngwebsite2022-dev-212830-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-ngwebsite2022-dev-212830-deployment",
+      "UnauthRoleName": "amplify-ngwebsite2022-dev-212830-unauthRole",
+      "StackName": "amplify-ngwebsite2022-dev-212830",
+      "StackId": "arn:aws:cloudformation:eu-west-2:175054299308:stack/amplify-ngwebsite2022-dev-212830/8b9917b0-f58e-11ec-8f5c-061b2e0d258e",
+      "AmplifyAppId": "d300p7mii6c3fb"
+    },
+    "categories": {
+      "auth": {
+        "ngwebauth": {}
+      },
+      "function": {
+        "AdminQueriescdd05a74": {
+          "deploymentBucketName": "amplify-ngwebsite2022-dev-212830-deployment",
+          "s3Key": "amplify-builds/AdminQueriescdd05a74-48692b447144554b3054-build.zip"
+        }
+      }
+    }
+  }
+}
